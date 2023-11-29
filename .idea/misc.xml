@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClientPropertiesManager">
+    <properties class="javax.swing.AbstractButton">
+      <property name="hideActionText" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JComponent">
+      <property name="html.disable" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JEditorPane">
+      <property name="JEditorPane.w3cLengthUnits" class="java.lang.Boolean" />
+      <property name="JEditorPane.honorDisplayProperties" class="java.lang.Boolean" />
+      <property name="charset" class="java.lang.String" />
+    </properties>
+    <properties class="javax.swing.JList">
+      <property name="List.isFileList" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JPasswordField">
+      <property name="JPasswordField.cutCopyAllowed" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JSlider">
+      <property name="Slider.paintThumbArrowShape" class="java.lang.Boolean" />
+      <property name="JSlider.isFilled" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JTable">
+      <property name="Table.isFileList" class="java.lang.Boolean" />
+      <property name="JTable.autoStartsEdit" class="java.lang.Boolean" />
+      <property name="terminateEditOnFocusLost" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JToolBar">
+      <property name="JToolBar.isRollover" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JTree">
+      <property name="JTree.lineStyle" class="java.lang.String" />
+    </properties>
+    <properties class="javax.swing.text.JTextComponent">
+      <property name="caretAspectRatio" class="java.lang.Double" />
+      <property name="caretWidth" class="java.lang.Integer" />
+    </properties>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Demos/pom.xml" />
+        <option value="$PROJECT_DIR$/Student/StudentOnlineRetailer/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/MyWebAppIJ/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/SolutionIntroSpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/mywebappij/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-spring-boot-dev/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-beans-config/pom.xml" />
+        <option value="$PROJECT_DIR$/Student/student-online-retailer/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-beans-config/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-additionaltechniques/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-spring-boot-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-additionaltechniques/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-web-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-web-mvc-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-web-mvc-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-web-mvc-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-web-mvc-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-rest-services/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-rest1/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-rest-clients/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-rest2/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-spring-data/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-spring-data-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-spring-data/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-spring-messaging/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-spring-messaging/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-web-mvc-additional-techniques/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-hateoas/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-aop-additional/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-jpa-queries/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-task-execution-scheduling/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-containerization/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-springcloudmicroservices-catalogservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-springcloudmicroservices-clientservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-jpa-associations/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-reactive/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-reactive/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-webflux/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-webflux1/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-webflux2/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-spring-boot-security/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-junit5/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-spring-boot-testing/pom.xml" />
+        <option value="$PROJECT_DIR$/Solutions/solution-spring-boot-testing/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-spring-batch/pom.xml" />
+        <option value="$PROJECT_DIR$/Demos/demo-redis-caching/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

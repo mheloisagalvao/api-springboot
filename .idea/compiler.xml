@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="solution-spring-data" />
+        <module name="demo-spring-boot-actuator" />
+        <module name="solution-web-mvc-jsp" />
+        <module name="demo-task-execution-scheduling" />
+        <module name="demo-kafka" />
+        <module name="demo-spring-batch" />
+        <module name="demo-additionaltechniques" />
+        <module name="demo-rest-clients" />
+        <module name="demo-hateoas" />
+        <module name="demo-web-mvc" />
+        <module name="demo-webflux" />
+        <module name="demo-springcloudmicroservices-clientservice" />
+        <module name="solution-reactive" />
+        <module name="demo-spring-data" />
+        <module name="solution-aop" />
+        <module name="demo-springcloudmicroservices-catalogservice" />
+        <module name="solution-spring-boot-dev" />
+        <module name="solution-spring-boot-testing" />
+        <module name="solution-rest1" />
+        <module name="demo-aop-additional" />
+        <module name="demo-spring-messaging" />
+        <module name="solution-rest2" />
+        <module name="demo-spring-boot-testing" />
+        <module name="demo-spring-boot-security" />
+        <module name="solution-spring-messaging" />
+        <module name="demo-junit5" />
+        <module name="demo-jpa-associations" />
+        <module name="demo-aop" />
+        <module name="demo-web-mvc-additional-techniques" />
+        <module name="demo-rest-services" />
+        <module name="demo-redis-caching" />
+        <module name="solution-webflux2" />
+        <module name="demo-beans-config" />
+        <module name="solution-beans-config" />
+        <module name="solution-webflux1" />
+        <module name="student-online-retailer" />
+        <module name="demo-reactive" />
+        <module name="demo-jpa-queries" />
+        <module name="solution-web-mvc-thymeleaf" />
+        <module name="demo-spring-data-mongodb" />
+        <module name="demo-web-mvc-jsp" />
+        <module name="demo-web-mvc-thymeleaf" />
+        <module name="demo-containerization" />
+        <module name="solution-additionaltechniques" />
+        <module name="mywebappij" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-additionaltechniques" target="11" />
+      <module name="demo-aop" target="11" />
+      <module name="demo-aop-additional" target="11" />
+      <module name="demo-beans-config" target="11" />
+      <module name="demo-containerization" target="11" />
+      <module name="demo-hateoas" target="11" />
+      <module name="demo-jpa-associations" target="11" />
+      <module name="demo-jpa-queries" target="11" />
+      <module name="demo-junit5" target="11" />
+      <module name="demo-kafka" target="11" />
+      <module name="demo-reactive" target="11" />
+      <module name="demo-redis-caching" target="11" />
+      <module name="demo-rest-clients" target="11" />
+      <module name="demo-rest-services" target="11" />
+      <module name="demo-spring-batch" target="11" />
+      <module name="demo-spring-boot-actuator" target="11" />
+      <module name="demo-spring-boot-security" target="11" />
+      <module name="demo-spring-boot-testing" target="11" />
+      <module name="demo-spring-data" target="11" />
+      <module name="demo-spring-data-mongodb" target="11" />
+      <module name="demo-spring-messaging" target="11" />
+      <module name="demo-springcloudmicroservices-catalogservice" target="11" />
+      <module name="demo-springcloudmicroservices-clientservice" target="11" />
+      <module name="demo-task-execution-scheduling" target="11" />
+      <module name="demo-web-mvc" target="11" />
+      <module name="demo-web-mvc-additional-techniques" target="11" />
+      <module name="demo-web-mvc-jsp" target="11" />
+      <module name="demo-web-mvc-thymeleaf" target="11" />
+      <module name="demo-webflux" target="11" />
+      <module name="DemoSpringBootSecurity" target="11" />
+      <module name="DemoTestingSpringBoot" target="11" />
+      <module name="MyWebApp" target="11" />
+      <module name="mywebappij" target="11" />
+      <module name="solution-additionaltechniques" target="11" />
+      <module name="solution-aop" target="11" />
+      <module name="solution-beans-config" target="11" />
+      <module name="solution-reactive" target="11" />
+      <module name="solution-rest1" target="11" />
+      <module name="solution-rest2" target="11" />
+      <module name="solution-spring-boot-dev" target="11" />
+      <module name="solution-spring-boot-testing" target="11" />
+      <module name="solution-spring-data" target="11" />
+      <module name="solution-spring-messaging" target="11" />
+      <module name="solution-web-mvc-jsp" target="11" />
+      <module name="solution-web-mvc-thymeleaf" target="11" />
+      <module name="solution-webflux1" target="11" />
+      <module name="solution-webflux2" target="11" />
+      <module name="SolutionTestingSpringBoot" target="11" />
+      <module name="student-online-retailer" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DemoSpringBootSecurity" options="-parameters" />
+      <module name="DemoTestingSpringBoot" options="-parameters" />
+      <module name="MyWebApp" options="-parameters" />
+      <module name="SolutionTestingSpringBoot" options="-parameters" />
+      <module name="demo-additionaltechniques" options="-parameters" />
+      <module name="demo-aop" options="-parameters" />
+      <module name="demo-aop-additional" options="-parameters" />
+      <module name="demo-beans-config" options="-parameters" />
+      <module name="demo-containerization" options="-parameters" />
+      <module name="demo-hateoas" options="-parameters" />
+      <module name="demo-jpa-associations" options="-parameters" />
+      <module name="demo-jpa-queries" options="-parameters" />
+      <module name="demo-junit5" options="-parameters" />
+      <module name="demo-kafka" options="-parameters" />
+      <module name="demo-reactive" options="-parameters" />
+      <module name="demo-redis-caching" options="-parameters" />
+      <module name="demo-rest-clients" options="-parameters" />
+      <module name="demo-rest-services" options="-parameters" />
+      <module name="demo-spring-batch" options="-parameters" />
+      <module name="demo-spring-boot-actuator" options="-parameters" />
+      <module name="demo-spring-boot-security" options="-parameters" />
+      <module name="demo-spring-boot-testing" options="-parameters" />
+      <module name="demo-spring-data" options="-parameters" />
+      <module name="demo-spring-data-mongodb" options="-parameters" />
+      <module name="demo-spring-messaging" options="-parameters" />
+      <module name="demo-springcloudmicroservices-catalogservice" options="-parameters" />
+      <module name="demo-springcloudmicroservices-clientservice" options="-parameters" />
+      <module name="demo-task-execution-scheduling" options="-parameters" />
+      <module name="demo-web-mvc" options="-parameters" />
+      <module name="demo-web-mvc-additional-techniques" options="-parameters" />
+      <module name="demo-web-mvc-jsp" options="-parameters" />
+      <module name="demo-web-mvc-thymeleaf" options="-parameters" />
+      <module name="demo-webflux" options="-parameters" />
+      <module name="mywebappij" options="-parameters" />
+      <module name="solution-additionaltechniques" options="-parameters" />
+      <module name="solution-aop" options="-parameters" />
+      <module name="solution-beans-config" options="-parameters" />
+      <module name="solution-reactive" options="-parameters" />
+      <module name="solution-rest1" options="-parameters" />
+      <module name="solution-rest2" options="-parameters" />
+      <module name="solution-spring-boot-dev" options="-parameters" />
+      <module name="solution-spring-boot-testing" options="-parameters" />
+      <module name="solution-spring-data" options="-parameters" />
+      <module name="solution-spring-messaging" options="-parameters" />
+      <module name="solution-web-mvc-jsp" options="-parameters" />
+      <module name="solution-web-mvc-thymeleaf" options="-parameters" />
+      <module name="solution-webflux1" options="-parameters" />
+      <module name="solution-webflux2" options="-parameters" />
+      <module name="student-online-retailer" options="-parameters" />
+    </option>
+  </component>
+</project>

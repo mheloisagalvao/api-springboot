@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBootDev.iml" filepath="$PROJECT_DIR$/SpringBootDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-additionaltechniques/demo-additionaltechniques.iml" filepath="$PROJECT_DIR$/Demos/demo-additionaltechniques/demo-additionaltechniques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-aop/demo-aop.iml" filepath="$PROJECT_DIR$/Demos/demo-aop/demo-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-aop-additional/demo-aop-additional.iml" filepath="$PROJECT_DIR$/Demos/demo-aop-additional/demo-aop-additional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-beans-config/demo-beans-config.iml" filepath="$PROJECT_DIR$/Demos/demo-beans-config/demo-beans-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-containerization/demo-containerization.iml" filepath="$PROJECT_DIR$/Demos/demo-containerization/demo-containerization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-hateoas/demo-hateoas.iml" filepath="$PROJECT_DIR$/Demos/demo-hateoas/demo-hateoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-jpa-associations/demo-jpa-associations.iml" filepath="$PROJECT_DIR$/Demos/demo-jpa-associations/demo-jpa-associations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-jpa-queries/demo-jpa-queries.iml" filepath="$PROJECT_DIR$/Demos/demo-jpa-queries/demo-jpa-queries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-junit5/demo-junit5.iml" filepath="$PROJECT_DIR$/Demos/demo-junit5/demo-junit5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-kafka/demo-kafka.iml" filepath="$PROJECT_DIR$/Demos/demo-kafka/demo-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-reactive/demo-reactive.iml" filepath="$PROJECT_DIR$/Demos/demo-reactive/demo-reactive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-redis-caching/demo-redis-caching.iml" filepath="$PROJECT_DIR$/Demos/demo-redis-caching/demo-redis-caching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-rest-clients/demo-rest-clients.iml" filepath="$PROJECT_DIR$/Demos/demo-rest-clients/demo-rest-clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-rest-services/demo-rest-services.iml" filepath="$PROJECT_DIR$/Demos/demo-rest-services/demo-rest-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-spring-batch/demo-spring-batch.iml" filepath="$PROJECT_DIR$/Demos/demo-spring-batch/demo-spring-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-spring-boot-actuator/demo-spring-boot-actuator.iml" filepath="$PROJECT_DIR$/Demos/demo-spring-boot-actuator/demo-spring-boot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-spring-boot-security/demo-spring-boot-security.iml" filepath="$PROJECT_DIR$/Demos/demo-spring-boot-security/demo-spring-boot-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-spring-boot-testing/demo-spring-boot-testing.iml" filepath="$PROJECT_DIR$/Demos/demo-spring-boot-testing/demo-spring-boot-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-spring-data/demo-spring-data.iml" filepath="$PROJECT_DIR$/Demos/demo-spring-data/demo-spring-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-spring-data-mongodb/demo-spring-data-mongodb.iml" filepath="$PROJECT_DIR$/Demos/demo-spring-data-mongodb/demo-spring-data-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-spring-messaging/demo-spring-messaging.iml" filepath="$PROJECT_DIR$/Demos/demo-spring-messaging/demo-spring-messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-springcloudmicroservices-catalogservice/demo-springcloudmicroservices-catalogservice.iml" filepath="$PROJECT_DIR$/Demos/demo-springcloudmicroservices-catalogservice/demo-springcloudmicroservices-catalogservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-springcloudmicroservices-clientservice/demo-springcloudmicroservices-clientservice.iml" filepath="$PROJECT_DIR$/Demos/demo-springcloudmicroservices-clientservice/demo-springcloudmicroservices-clientservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-task-execution-scheduling/demo-task-execution-scheduling.iml" filepath="$PROJECT_DIR$/Demos/demo-task-execution-scheduling/demo-task-execution-scheduling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-web-mvc/demo-web-mvc.iml" filepath="$PROJECT_DIR$/Demos/demo-web-mvc/demo-web-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-web-mvc-additional-techniques/demo-web-mvc-additional-techniques.iml" filepath="$PROJECT_DIR$/Demos/demo-web-mvc-additional-techniques/demo-web-mvc-additional-techniques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-web-mvc-jsp/demo-web-mvc-jsp.iml" filepath="$PROJECT_DIR$/Demos/demo-web-mvc-jsp/demo-web-mvc-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-web-mvc-thymeleaf/demo-web-mvc-thymeleaf.iml" filepath="$PROJECT_DIR$/Demos/demo-web-mvc-thymeleaf/demo-web-mvc-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/demo-webflux/demo-webflux.iml" filepath="$PROJECT_DIR$/Demos/demo-webflux/demo-webflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/mywebappij/mywebappij.iml" filepath="$PROJECT_DIR$/Demos/mywebappij/mywebappij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-additionaltechniques/solution-additionaltechniques.iml" filepath="$PROJECT_DIR$/Solutions/solution-additionaltechniques/solution-additionaltechniques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-aop/solution-aop.iml" filepath="$PROJECT_DIR$/Solutions/solution-aop/solution-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-beans-config/solution-beans-config.iml" filepath="$PROJECT_DIR$/Solutions/solution-beans-config/solution-beans-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-reactive/solution-reactive.iml" filepath="$PROJECT_DIR$/Solutions/solution-reactive/solution-reactive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-rest1/solution-rest1.iml" filepath="$PROJECT_DIR$/Solutions/solution-rest1/solution-rest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-rest2/solution-rest2.iml" filepath="$PROJECT_DIR$/Solutions/solution-rest2/solution-rest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-spring-boot-dev/solution-spring-boot-dev.iml" filepath="$PROJECT_DIR$/Solutions/solution-spring-boot-dev/solution-spring-boot-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-spring-boot-testing/solution-spring-boot-testing.iml" filepath="$PROJECT_DIR$/Solutions/solution-spring-boot-testing/solution-spring-boot-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-spring-data/solution-spring-data.iml" filepath="$PROJECT_DIR$/Solutions/solution-spring-data/solution-spring-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-spring-messaging/solution-spring-messaging.iml" filepath="$PROJECT_DIR$/Solutions/solution-spring-messaging/solution-spring-messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-web-mvc-jsp/solution-web-mvc-jsp.iml" filepath="$PROJECT_DIR$/Solutions/solution-web-mvc-jsp/solution-web-mvc-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-web-mvc-thymeleaf/solution-web-mvc-thymeleaf.iml" filepath="$PROJECT_DIR$/Solutions/solution-web-mvc-thymeleaf/solution-web-mvc-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-webflux1/solution-webflux1.iml" filepath="$PROJECT_DIR$/Solutions/solution-webflux1/solution-webflux1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solutions/solution-webflux2/solution-webflux2.iml" filepath="$PROJECT_DIR$/Solutions/solution-webflux2/solution-webflux2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/student-online-retailer/student-online-retailer.iml" filepath="$PROJECT_DIR$/Student/student-online-retailer/student-online-retailer.iml" />
+    </modules>
+  </component>
+</project>

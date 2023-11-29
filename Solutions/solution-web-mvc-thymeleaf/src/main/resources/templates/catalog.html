@@ -1,0 +1,44 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-spring4-4.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"></meta>
+	<meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+	
+	<title>Catalog</title>
+
+	<link th:href="@{bootstrap/css/bootstrap.css}" type="text/css" rel="stylesheet" />
+	<link th:href="@{styles/online-retailer.css}" type="text/css" rel="stylesheet" />
+    
+    <script src="jquery/jquery-1.12.4.js"></script>
+    <script src="bootstrap/js/bootstrap.js"></script>	
+</head>
+<body>
+
+	<div class="container">
+
+		<div class="banner col-xs-12">
+			Catalog
+			<a href="showCart"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</a>
+		</div>
+	    
+		<div th:each="item : ${@catalog}" class="thumbnail col-xs-6 col-md-4 col-lg-3">
+		    <img th:src="@{'/images/' + ${item.value.id} + '.jpg'}" />
+		    <div class="caption">
+		        <h3 th:text="${item.value.description}">Offline description</h3>
+		        <p th:text="${'&pound;' + item.value.price}">Offline price</p>
+				<form action="addItemToCart">
+					<input type="hidden" name="id" th:value="${item.value.id}" />
+					<input type="number" name="quantity" placeholder="Quantity" />
+					<button>Add to cart</button>
+				</form> 
+		    </div>
+		</div>
+
+		<div th:if="${message != null}" 
+		     th:text="${message}"
+		     class="banner col-xs-12"></div>
+		
+	</div>
+
+</body>
+</html>
